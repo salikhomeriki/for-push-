@@ -1,0 +1,47 @@
+*{
+  text-decoration: none;
+  color:black;
+  cursor:point;
+}
+
+h1{
+  background:orange;
+  color:white;
+  font-size:36px;
+  line-heigh:40px;
+  padding:5px;
+  
+}
+@media screen and (max-width:600px){
+  h1{
+  background:black;
+  color:white;
+  font-size:32px;
+  line-heigh:34px; 
+  }
+ 
+  
+}
+h2{
+  background:black;
+  color:white;
+  font-size:30px;
+  line-heigh:30px;
+  padding:3px;
+  
+}
+table,td {
+  border: 3px solid #000;
+  border-collapse:collapse;
+}
+ul{
+  border:3px solid black;
+  border-collapse:collapse;
+}
+th,td {
+  border-color:white;
+  padding:5px;
+  background:pink;
+  color: black;
+}
+}
